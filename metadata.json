@@ -1,0 +1,8 @@
+{
+  "name": "Copy of MedSense - Medicine Reminder & Explainer",
+  "description": "An AI-powered medicine companion that simplifies prescriptions and ensures you never miss a dose.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
